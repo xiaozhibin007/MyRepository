@@ -1,4 +1,4 @@
-package cn.xzb.file;
+package cn.xzb.controller;
 
 /**
  * 文件上传
@@ -6,5 +6,5 @@ package cn.xzb.file;
  *
  */
 public class FileUpload {
-	String str = null;
+	
 }
