@@ -6,5 +6,5 @@ package cn.xzb.file;
  *
  */
 public class FileUpload {
-	
+	String str = null;
 }
